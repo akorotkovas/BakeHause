@@ -62,6 +62,10 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
   line-height: 33px;
 }
 
+nav a.sidenav-trigger i {
+  line-height: 58px;
+}
+
 .menu {
   display: flex;
   justify-content: space-between;
