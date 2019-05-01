@@ -59,7 +59,7 @@ ul#mobile-links.sidenav li.active2 a {
 
 
 nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
-  line-height: 50px;
+  line-height: 33px;
 }
 
 .menu {
@@ -68,7 +68,7 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
   text-transform: uppercase;
   width: 45vw;
   margin: 0 auto;
-  padding-top: 17px;
+  padding-top: 15px;
 }
 .black {
   opacity: 0.75;
